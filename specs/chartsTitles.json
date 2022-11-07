@@ -123,5 +123,6 @@
   "TRA_Passenger_Land_Mode-L": "Land Transport (P) - Long",
   "TRA_Passenger_Land_Mode-M": "Land Transport (P) - Medium",
   "TRA_Passenger_Land_Mode-S": "Land Transport (P) - Short",
-  "TRA_TURS_FuelCons": "Fuel Consumption - Tourism"
+  "TRA_TURS_FuelCons": "Fuel Consumption - Tourism",
+  "Trial_transport_demand": "Transport service demand"
 }

@@ -1401,6 +1401,31 @@
     ],
     "unit": "PJ"
   },
+  "Trial_transport_demand": {
+    "seriesNames": [
+      "TAVIDOM",
+      "TAVIINT",
+      "TNAV",
+      "TOTH",
+      "TRAF",
+      "TRAPL",
+      "TRAPM",
+      "TRAPS",
+      "TTURS"
+    ],
+    "colorScale": [
+      "#A020F0",
+      "#A020F0",
+      "#A020F0",
+      "#A020F0",
+      "#A020F0",
+      "#1EC952",
+      "#02C644",
+      "#DC4155",
+      "#A020F0"
+    ],
+    "unit": "Bpkm"
+  },
   "TRA_FEC": {
     "seriesNames": [
       "TRABDL",
