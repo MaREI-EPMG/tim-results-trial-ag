@@ -115,7 +115,8 @@
           "TRA_Passenger_Land_Mode",
           "TRA_Passenger_Land_Mode-L",
           "TRA_Passenger_Land_Mode-M",
-          "TRA_Passenger_Land_Mode-S"
+          "TRA_Passenger_Land_Mode-S",
+          "Trial_transport_demand"
         ]
       }
     ]
