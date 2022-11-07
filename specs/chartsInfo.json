@@ -1401,31 +1401,6 @@
     ],
     "unit": "PJ"
   },
-  "Trial_transport_demand": {
-    "seriesNames": [
-      "TAVIDOM",
-      "TAVIINT",
-      "TNAV",
-      "TOTH",
-      "TRAF",
-      "TRAPL",
-      "TRAPM",
-      "TRAPS",
-      "TTURS"
-    ],
-    "colorScale": [
-      "#ADD682",
-      "#EABD10",
-      "#C76AC0",
-      "#F2CD60",
-      "#23B290",
-      "#EE5257",
-      "#637093",
-      "#06422C",
-      "#E2A0C9"
-    ],
-    "unit": "Bpkm"
-  },
   "TRA_FEC": {
     "seriesNames": [
       "TRABDL",
@@ -1452,6 +1427,19 @@
     "unit": "PJ"
   },
   "TRA_Passenger_Land_Distance": {
+    "seriesNames": [
+      "TRAPL",
+      "TRAPM",
+      "TRAPS"
+    ],
+    "colorScale": [
+      "#1EC952",
+      "#02C644",
+      "#DC4155"
+    ],
+    "unit": "Bpkm"
+  },
+  "Trial_transport_demand": {
     "seriesNames": [
       "TRAPL",
       "TRAPM",
